@@ -2,7 +2,7 @@
 
 **Conducted by:** Vasavi Chinnala  
 **Certification:** Google Ads Search Certified (2026) · Google Analytics Certified (2025)  
-**Date:** June 2025  
+**Date:** June 2026  
 
 ---
 
@@ -40,6 +40,11 @@ coverage, and sitelink structure against Google Ads best practices.
 3. Replace sitelinks with product-specific anchors (name + price + key spec)
 
 ---
+---
+
+## Full Audit Deck
+
+📄 [View Full Audit PDF](./boAt%20Google%20Ads%20Campaign%20Audit.pdf)
 
 ## Tools Used
 
