@@ -41,12 +41,6 @@ coverage, and sitelink structure against Google Ads best practices.
 
 ---
 
-## Full Audit Deck
-
-📄 [View PDF](https://github.com/Vasavi-18/google-ads-campaign-audit-boat/edit/main/README.md)
-
----
-
 ## Tools Used
 
 - Google Ads Search (Keyword Planner, Ad analysis)
