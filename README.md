@@ -40,11 +40,10 @@ coverage, and sitelink structure against Google Ads best practices.
 3. Replace sitelinks with product-specific anchors (name + price + key spec)
 
 ---
----
 
 ## Full Audit Deck
 
-📄 [View Full Audit PDF](./boAt%20Google%20Ads%20Campaign%20Audit.pdf)
+📄 [View Full Audit PDF](./boAt_GoogleAds_CampaignAudit_VasaviChinnala.pdf)
 
 ## Tools Used
 
